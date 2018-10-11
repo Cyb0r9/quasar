@@ -20,4 +20,5 @@ sudo ./quasar.sh
 # Contact
 * [Contact](https://www.facebook.com/ouerghi.belahsan) - Belahsan Ouerghi
 * [Contact](www.youtube.com/channel/UCv9HdZbTOo0iBG5X2qaqmqg) - Tunisian Eagles Youtube Channel
-
+#
+*The author does not hold any responsibility for the bad use of this tool, remember that attacking targets without prior consent is illegal and punished by law.
