@@ -23,6 +23,8 @@ sudo ./quasar.sh
 # Tested On :
 * Backbox linux
 * Ubuntu 
+# Tutorial
+* https://www.youtube.com/watch?v=VuQ6rH6yJtQ&feature=youtu.be
 # Contact
 * [Contact](https://www.facebook.com/ouerghi.belahsan) - Belahsan Ouerghi
 * [Contact](www.youtube.com/channel/UCv9HdZbTOo0iBG5X2qaqmqg) - Tunisian Eagles Youtube Channel
