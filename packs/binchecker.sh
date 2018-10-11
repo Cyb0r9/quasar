@@ -12,5 +12,6 @@ cafe="\033[0;33m"
 fiuscha="\033[0;35m"
 blue="\033[1;34m"
 nc="\e[0m"
-read -p "	$(echo -e $red[$green+$red]$nc) $(echo -e $white Enter First 6 Digits of CC : ) " card
+read -p "	$(echo -e $red[$green+$red]$nc) $(echo -e $white Enter Credit Card bin : ) " card
 http https://lookup.binlist.net/$card
+#EOF
