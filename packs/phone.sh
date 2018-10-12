@@ -12,7 +12,7 @@ cafe="\033[0;33m"
 fiuscha="\033[0;35m"
 blue="\033[1;34m"
 nc="\e[0m"
-api_key=ee392377bdcf8e0008cc8f0dbd40edb0
+api_key=ed83b99f57bd8d28a5a2d775838e5609
 read -p "	$(echo -e $red[$green+$red]$white Enter Country Code ex TN : $nc)" co
 read -p "	$(echo -e $red[$green+$red]$white Enter Phone Number : $nc)" number
 curl "http://apilayer.net/api/validate?access_key=$api_key&number=$number&country_code=$co&format=1"
