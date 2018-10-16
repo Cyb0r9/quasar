@@ -28,6 +28,7 @@ sudo apt-get install libpcap0.8-dev
 sudo apt-get install hostapd
 sudo apt-get install lighttpd
 sudo apt-get install php5-cgi
+sudo apt-get install http
 sudo apt-get --fix-missing
 echo -e "$cyan System Update $red[$green✔$red]$nc"
 echo -e "$cyan bash Installed $red[$green✔$red]$nc"
@@ -38,6 +39,7 @@ echo -e "$cyan libpcap0.8-dev Installed $red[$green✔$red]$nc"
 echo -e "$cyan hostapd Installed $red[$green✔$red]$nc"
 echo -e "$cyan lighttpd Installed $red[$green✔$red]$nc"
 echo -e "$cyan php5-cgi Installed $red[$green✔$red]$nc"
+echo -e "$cyan http Installed $red[$green✔$red]$nc"
 #EOF
 sleep 2
 chmod +x quasar.sh
