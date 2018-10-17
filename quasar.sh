@@ -135,7 +135,6 @@ function secmenu() {
 	$red[$green$n3$red]$white GeoIP Lookup$nc
 	$red[$green$n4$red]$white Subnet Lookup$nc
 	$red[$green$n5$red]$white Get Robots.txt$nc
-	$red[$green$n5$red]$white Host DNS Finder$nc
 	$red[$green$n6$red]$white Website UP or DOWN $nc
 	$red[$green$n7$red]$white Back To Main Menu$nc
 	$red[$green$n8$red]$white Exit$nc
