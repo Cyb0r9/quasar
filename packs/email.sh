@@ -12,7 +12,7 @@ cafe="\033[0;33m"
 fiuscha="\033[0;35m"
 blue="\033[1;34m"
 nc="\e[0m"
-api_key=79f8143f744da9401dcd9e5cc19ee191
+api_key=bff73852e85b728070baaa0136b15916
 read -p "        $(echo -e $red[$green+$red]$nc) $(echo -e $white Enter Your Email : $nc )" email
 curl "http://apilayer.net/api/check?access_key=$api_key&email=$email&smtp=1&format=1"
 #EOF
