@@ -1,12 +1,12 @@
 # Quasar
 <b>Quasar Is An Information Gathering Framework For Penetration Testers Coded By Belahsan Ouerghi</b>
+![Quasar](https://raw.githubusercontent.com/TunisianEagles/quasar/master/Screenshot/quasae.png)
 * Website Informations
 * E-mail Address Checker
 * Phone Number Information
 * Credit Card Bin Checker
 * Ip Locator
 * Port Scanner
-![Quasar](https://raw.githubusercontent.com/TunisianEagles/quasar/master/Screenshot/quasae.png)
 # Installation
 ```
 sudo apt-get install git
