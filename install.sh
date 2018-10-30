@@ -29,7 +29,6 @@ sudo apt-get install hostapd
 sudo apt-get install lighttpd
 sudo apt-get install php5-cgi
 sudo apt-get install http
-sudo apt-get --fix-missing
 echo -e "$cyan System Update $red[$green✔$red]$nc"
 echo -e "$cyan bash Installed $red[$green✔$red]$nc"
 echo -e "$cyan aircrack-ng Installed $red[$green✔$red]$nc"
