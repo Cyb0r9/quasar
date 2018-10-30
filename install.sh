@@ -43,4 +43,4 @@ echo -e "$cyan http Installed $red[$green✔$red]$nc"
 #EOF
 sleep 2
 chmod +x quasar.sh
-echo -e "$yellow You Can Run Know quasar.sh$nc"
+echo -e "$yellow You Can Run Now quasar.sh$nc"
