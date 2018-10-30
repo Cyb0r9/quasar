@@ -37,8 +37,8 @@ function update() {
 	sleep 0.025
 	cd packs
 	echo -e "$cyan Updating Credit Card Bin Checker $red[$green✔$red]$nc"
-	curl "https://raw.githubusercontent.com/TunisianEagles/quasar/master/packs/binchecker.sh" --output binchecker.sh >/dev/null 2>&1
-	chmod +x binchecker.sh
+	curl "https://raw.githubusercontent.com/TunisianEagles/quasar/master/packs/binchecker.py" --output binchecker.py >/dev/null 2>&1
+	chmod +x binchecker.py
 	sleep 0.025
 	echo -e "$cyan Updating Email Validator $red[$green✔$red]$nc"
 	curl "https://raw.githubusercontent.com/TunisianEagles/quasar/master/packs/email.sh" --output email.sh >/dev/null 2>&1
