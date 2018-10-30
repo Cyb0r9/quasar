@@ -300,7 +300,7 @@ echo -e "	$green Credit Card Bin Checker$nc"
 echo ""
 sleep 0.50
 cd packs
-bash binchecker.sh
+bash binchecker.py
 cd ..
 back
 elif [ $ch = 5 ]; then
